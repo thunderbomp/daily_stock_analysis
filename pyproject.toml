@@ -1,6 +1,6 @@
 [project]
 name = "stock_analysis_2026"
-version = "0.1.0"
+version = "0.1.1"
 description = "Stock analysis application"
 requires-python = ">=3.12"
 dependencies = [
